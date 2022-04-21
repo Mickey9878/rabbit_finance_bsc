@@ -1,0 +1,374 @@
+--------------------------------------- Farm PancakeUSDT-BUSD ------------------------------------------
+PancakeUSDT-BUSD debtToken: 0x5C1cAb77E95a9F18Ebf2DC2581366123f2cfd549
+PancakeUSDT-BUSD Pancake Goblin: 0x92aE1b543D59aE30F999eb6490A895e11E9882b5
+PancakeUSDT-BUSD FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeUSDT-BUSD FarmPancakeLiqStrat: 0xE0D7877EEC30Db9a1D1aD4CC0A3c413774d7c781
+PancakeUSDT-BUSD AddTwoStrategyAddr: 0x1cEF6A51a951246D2943800e472B9F35e57E2E6d
+PancakeUSDT-BUSD WithdrawStrategyAddr: 0x3F365b0C749B41359B27FDE462772219d999C5b2
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeBUSD-USDT FairLaunch Pid: 6
+------------------ Bank Borrow Pid --------------------
+PancakeUSDT-BUSD BorrowToken0: USDT, Pid:128
+PancakeUSDT-BUSD BorrowToken1: BUSD, Pid:129
+
+--------------------------------------- Farm PancakeBNB-BUSD ------------------------------------------
+PancakeBNB-BUSD debtToken: 0xA5cd68b3F3a82e858ceaF6738C1f62d0FB0c9e17
+PancakeBNB-BUSD Pancake Goblin: 0xA7CA19be60e2422BF60a385612e752E132333581
+PancakeBNB-BUSD FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeBNB-BUSD FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeBNB-BUSD AddTwoStrategyAddr: 0xFbf731119d31B9FFC6f3fafa7E3EAd911d73433c
+PancakeBNB-BUSD WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeBNB-BUSD FairLaunch Pid: 7
+------------------ Bank Borrow Pid --------------------
+PancakeBNB-BUSD BorrowToken0: BNB, Pid:130
+PancakeBNB-BUSD BorrowToken1: BUSD, Pid:131
+
+--------------------------------------- Farm PancakeUSDT-BNB ------------------------------------------
+PancakeUSDT-BNB debtToken: 0xd6db7b574F0f29C2C2Bd31D659E517A0799fcE6B
+PancakeUSDT-BNB Pancake Goblin: 0x6c4Eb13d0A6A88e4D18C02992C4bA047b6a13bD0
+PancakeUSDT-BNB FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeUSDT-BNB AddTwoStrategyAddr: 0x12Df61e4888ed73D26033898a7540829bf08931d
+PancakeUSDT-BNB FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeUSDT-BNB WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeUSDT-BNB FairLaunch Pid: 8
+------------------ Bank Borrow Pid --------------------
+PancakeUSDT-BNB BorrowToken0: USDT, Pid:132
+PancakeUSDT-BNB BorrowToken1: BNB, Pid:133
+
+--------------------------------------- Farm PancakeETH-BNB ------------------------------------------
+PancakeETH-BNB debtToken: 0xDD23C084045b1a52d6DaceCdFD53fA0e8BfC5d76
+PancakeETH-BNB Pancake Goblin: 0x00E7295Cc0e68AdFeec7C69039656201b77aC9D4
+PancakeETH-BNB FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeETH-BNB FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeETH-BNB AddTwoStrategyAddr: 0xF3Dd75Fb470198392bb14A49F1a4Df98449916C7
+PancakeETH-BNB WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeETH-BNB FairLaunch Pid: 9
+------------------ Bank Borrow Pid --------------------
+PancakeETH-BNB BorrowToken0: ETH, Pid:134
+PancakeETH-BNB BorrowToken1: BNB, Pid:135
+
+--------------------------------------- Farm PancakeBTCB-BUSD ------------------------------------------
+PancakeBTCB-BUSD debtToken: 0xc31638025DEC9A9f3ee1382717f53BE2fD48AE4b
+PancakeBTCB-BUSD Pancake Goblin: 0x0404cF4294e6Bd4289DFA24974402C3f1166ca56
+PancakeBTCB-BUSD FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeBTCB-BUSD FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeBTCB-BUSD AddTwoStrategyAddr: 0xa2D0D08E08823b978232611EB54795608d92362b
+PancakeBTCB-BUSD WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeBTCB-BUSD FairLaunch Pid: 10
+------------------ Bank Borrow Pid --------------------
+PancakeBTCB-BUSD BorrowToken0: BTCB, Pid:136
+PancakeBTCB-BUSD BorrowToken1: BUSD, Pid:137
+
+--------------------------------------- Farm PancakeBTCB-BNB ------------------------------------------
+PancakeBTCB-BNB debtToken: 0x261E41Eb27e6396c9B06de128fc1833d42Ea9c6B
+PancakeBTCB-BNB Pancake Goblin: 0xA67D61a1e12161a56ba9aF6054300C3296b3C6Ef
+PancakeBTCB-BNB FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeBTCB-BNB FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeBTCB-BNB AddTwoStrategyAddr: 0xA7eED1d7BCd39E7d2F57851C3525634a7c5C2cf9
+PancakeBTCB-BNB WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeBTCB-BNB FairLaunch Pid: 11
+------------------ Bank Borrow Pid --------------------
+PancakeBTCB-BNB BorrowToken0: BTCB, Pid:138
+PancakeBTCB-BNB BorrowToken1: BNB, Pid:139
+
+--------------------------------------- Farm PancakeCAKE-BNB ------------------------------------------
+PancakeCAKE-BNB debtToken: 0xF902feFAeaeF32596E3895078bfc834Fb4210bcE
+PancakeCAKE-BNB Pancake Goblin: 0x37ce37088B1D84786864c3856f9660B0Ddc835B0
+PancakeCAKE-BNB FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeCAKE-BNB FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeCAKE-BNB AddTwoStrategyAddr: 0x70c18D9990942D8cE01c1054e33DC65e3f6928a7
+PancakeCAKE-BNB WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeCAKE-BNB FairLaunch Pid: 12
+------------------ Bank Borrow Pid --------------------
+PancakeCAKE-BNB BorrowToken1: BNB, Pid:140
+
+--------------------------------------- Farm PancakeBNB-LINK ------------------------------------------
+PancakeBNB-LINK debtToken: 0xA31fe9059F54562132C00D812829165695DB02bD
+PancakeBNB-LINK Pancake Goblin: 0x592081857B7bC5E0E8c533A93755b26A21b0e00a
+PancakeBNB-LINK FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeBNB-LINK FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeBNB-LINK AddTwoStrategyAddr: 0x3d5bF120b8ccA2946D8d409070DaF653430203d1
+PancakeBNB-LINK WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeBNB-LINK FairLaunch Pid: 13
+------------------ Bank Borrow Pid --------------------
+PancakeBNB-LINK BorrowToken0: BNB, Pid:141
+
+--------------------------------------- Farm PancakeBNB-XVS ------------------------------------------
+PancakeBNB-XVS debtToken: 0x99a97a3DBA557C2cfa6eF444bB043024D00845a4
+PancakeBNB-XVS Pancake Goblin: 0x288D67a11c38fEee3B4A30c07936C19346bde428
+PancakeBNB-XVS FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeBNB-XVS FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeBNB-XVS AddTwoStrategyAddr: 0xb5f37a71dd20237F54781E97217b9CD4fF52E5b7
+PancakeBNB-XVS WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeBNB-XVS FairLaunch Pid: 14
+------------------ Bank Borrow Pid --------------------
+PancakeBNB-XVS BorrowToken0: BNB, Pid:142
+
+--------------------------------------- Farm PancakeDOT-BNB ------------------------------------------
+PancakeDOT-BNB debtToken: 0x7A4aB5c9b59869A5124bFC0C7e57fdD6a998F342
+PancakeDOT-BNB Pancake Goblin: 0xa7De761a606101F55DF7241991ECCE867869B4A4
+PancakeDOT-BNB FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeDOT-BNB FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeDOT-BNB AddTwoStrategyAddr: 0x0533b11E4d5F45cef52FaD4744aC4c374c0770Ce
+PancakeDOT-BNB WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeDOT-BNB FairLaunch Pid: 15
+------------------ Bank Borrow Pid --------------------
+PancakeDOT-BNB BorrowToken1: BNB, Pid:143
+
+--------------------------------------- Farm PancakeADA-BNB ------------------------------------------
+PancakeADA-BNB debtToken: 0x3D8e505Cf09fCa3814980BE89A39F2B48fB040B1
+PancakeADA-BNB Pancake Goblin: 0xc991242e925c94B56C0F483Bd9Aaa62A97b84cfA
+PancakeADA-BNB FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeADA-BNB FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeADA-BNB AddTwoStrategyAddr: 0xf2D7EBb4de9fC051245691913Cf3c9083C171926
+PancakeADA-BNB WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeADA-BNB FairLaunch Pid: 16
+------------------ Bank Borrow Pid --------------------
+PancakeADA-BNB BorrowToken1: BNB, Pid:144
+
+--------------------------------------- Farm PancakeBNB-UNI ------------------------------------------
+PancakeBNB-UNI debtToken: 0xE2190efB3BdBE07b0C1c55c69867D3cB595661bF
+PancakeBNB-UNI Pancake Goblin: 0x3a58406bdBc32b3EAAfFC971AFC485185cC78D9F
+PancakeBNB-UNI FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeBNB-UNI FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeBNB-UNI AddTwoStrategyAddr: 0x4630C513b344A79496F4335Ac49f58C1dC913a84
+PancakeBNB-UNI WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeBNB-UNI FairLaunch Pid: 17
+------------------ Bank Borrow Pid --------------------
+PancakeBNB-UNI BorrowToken0: BNB, Pid:145
+
+--------------------------------------- Farm PancakeCAKE-BUSD ------------------------------------------
+PancakeCAKE-BUSD debtToken: 0xacB29A85f1283bF6217F70507B148adE984B5465
+PancakeCAKE-BUSD Pancake Goblin: 0xCa00524c55703C057632c7fCb914a7C64E139505
+PancakeCAKE-BUSD FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeCAKE-BUSD WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+PancakeCAKE-BUSD AddTwoStrategyAddr: 0x4f17667B1079649958e340b664Bee4939Ea45AEC
+PancakeCAKE-BUSD FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeCAKE-BUSD FairLaunch Pid: 18
+------------------ Bank Borrow Pid --------------------
+PancakeCAKE-BUSD BorrowToken1: BUSD, Pid:146
+
+--------------------------------------- Farm PancakeUSDC-USDT ------------------------------------------
+PancakeUSDC-USDT debtToken: 0x1FA76EcefCe86CBBdf442571Bf76D11CBd1ffA4F
+PancakeUSDC-USDT Pancake Goblin: 0x028C44b049aD2A46B743FA65Ff51BCF427BcF780
+PancakeUSDC-USDT FarmPancakeLiqStrat: 0xE0D7877EEC30Db9a1D1aD4CC0A3c413774d7c781
+PancakeUSDC-USDT FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeUSDC-USDT AddTwoStrategyAddr: 0x595A02FA4952E5803A07ba3B7d717A1e5a04be9a
+PancakeUSDC-USDT WithdrawStrategyAddr: 0x3F365b0C749B41359B27FDE462772219d999C5b2
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeUSDC-USDT FairLaunch Pid: 19
+------------------ Bank Borrow Pid --------------------
+PancakeUSDC-USDT BorrowToken1: USDT, Pid:147
+
+--------------------------------------- Farm PancakeUSDC-BUSD ------------------------------------------
+PancakeUSDC-BUSD debtToken: 0x466F586903D94fFC2D7728DE4d65C50A462Af7Ec
+PancakeUSDC-BUSD Pancake Goblin: 0xac988E0Cf82E28595C5973835f3429fd72515E42
+PancakeUSDC-BUSD FarmPancakeLiqStrat: 0xE0D7877EEC30Db9a1D1aD4CC0A3c413774d7c781
+PancakeUSDC-BUSD FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeUSDC-BUSD AddTwoStrategyAddr: 0xb32861e4709922d65F43cD7e78C73878081d0E6d
+PancakeUSDC-BUSD WithdrawStrategyAddr: 0x3F365b0C749B41359B27FDE462772219d999C5b2
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeUSDC-BUSD FairLaunch Pid: 20
+------------------ Bank Borrow Pid --------------------
+PancakeUSDC-BUSD BorrowToken1: BUSD, Pid:148
+
+--------------------------------------- Farm PancakeDAI-BUSD ------------------------------------------
+PancakeDAI-BUSD debtToken: 0xa14533c63D0b6C278172E92900E67Da23F795cdD
+PancakeDAI-BUSD Pancake Goblin: 0x3378b8c59a7b6328ade3F7b6bFcE8cCbf198086A
+PancakeDAI-BUSD FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeDAI-BUSD FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeDAI-BUSD AddTwoStrategyAddr: 0xbf4015fBad2037C84e7B5c1F120Fb5d359A2f80f
+PancakeDAI-BUSD WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeDAI-BUSD FairLaunch Pid: 21
+------------------ Bank Borrow Pid --------------------
+PancakeDAI-BUSD BorrowToken1: BUSD, Pid:149
+
+--------------------------------------- Farm PancakeTUSD-BUSD ------------------------------------------
+PancakeTUSD-BUSD debtToken: 0x7acc6f35eE91438d79196fBaedAdE0F0364Df6cc
+PancakeTUSD-BUSD Pancake Goblin: 0x99a8578dB15F86c4087C7375268342f71cD3a2DA
+PancakeTUSD-BUSD FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeTUSD-BUSD FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeTUSD-BUSD WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+PancakeTUSD-BUSD AddTwoStrategyAddr: 0x0A754686D49A253590C327C25680B1E70D0f82EA
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeTUSD-BUSD FairLaunch Pid: 22
+------------------ Bank Borrow Pid --------------------
+PancakeTUSD-BUSD BorrowToken1: BUSD, Pid:150
+
+--------------------------------------- Farm PancakeUST-BUSD ------------------------------------------
+PancakeUST-BUSD debtToken: 0x645c306a15cD29560a2EEBB689aF7918B760911A
+PancakeUST-BUSD Pancake Goblin: 0x6ff7daa1a40146E9132CE2DbCE5a35EF3A840A06
+PancakeUST-BUSD FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeUST-BUSD AddTwoStrategyAddr: 0xf786651C8B9d23406848531814b5A0aB844734ab
+PancakeUST-BUSD FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeUST-BUSD WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeUST-BUSD FairLaunch Pid: 23
+------------------ Bank Borrow Pid --------------------
+PancakeUST-BUSD BorrowToken1: BUSD, Pid:151
+
+--------------------------------------- Farm PancakeVAI-BUSD ------------------------------------------
+PancakeVAI-BUSD debtToken: 0xBF21fE7d4008936474e92cf455Dfbd99cB2Cc3bf
+PancakeVAI-BUSD Pancake Goblin: 0x55786573875F1Dd45FEfB741762B9D163fAd3516
+PancakeVAI-BUSD FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeVAI-BUSD FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeVAI-BUSD AddTwoStrategyAddr: 0xd8997AA8c32c48c052dcf1D12B2020082FB527FF
+PancakeVAI-BUSD WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeVAI-BUSD FairLaunch Pid: 24
+------------------ Bank Borrow Pid --------------------
+PancakeVAI-BUSD BorrowToken1: BUSD, Pid:152
+
+--------------------------------------- Farm PancakeRABBIT-BNB ------------------------------------------
+PancakeRABBIT-BNB debtToken: 0x778A827fEFc74850fC0a8a4E44792D8Ec4D6cAeA
+PancakeRABBIT-BNB Pancake Goblin: 0x912977ff20b641B37C2E0185fA4b02803601a3a3
+PancakeRABBIT-BNB FarmPancakeReinvestStrat: 0x2b7Ee480ffad7D9079A12640F60421d4bea035e3
+PancakeRABBIT-BNB FarmPancakeLiqStrat: 0x20960Abb669c780a697253B55A7Fe8478e48A489
+PancakeRABBIT-BNB AddTwoStrategyAddr: 0x435ad779f739f91b4e0906e28fC2b46f029b2EaC
+PancakeRABBIT-BNB WithdrawStrategyAddr: 0x8079339bC13C5ACCEc508df422dE9D3836C8fBE8
+------------------ FairLaunch DebtToken Pid --------------------
+debtPancakeRABBIT-BNB FairLaunch Pid: 25
+------------------ Bank Borrow Pid --------------------
+PancakeRABBIT-BNB BorrowToken1: BNB, Pid:153
+
+--------------------------------------- Farm MdexBNB-BUSD ------------------------------------------
+MdexBNB-BUSD debtToken: 0xEF4A4990105Da3E423aFe1Ed45c53AF81F4Be5bd
+MdexBNB-BUSD Mdx Goblin: 0x4e07250388ED8156911Db11Dea00e2Ebbb0eC48C
+MdexBNB-BUSD FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexBNB-BUSD AddTwoStrategyAddr: 0x3980E0FBe69Cb9331b1659f0A34806796FcbDEb3
+MdexBNB-BUSD WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexBNB-BUSD FairLaunch Pid: 26
+------------------ Bank Borrow Pid --------------------
+MdexBNB-BUSD BorrowToken0: BNB, Pid:154
+MdexBNB-BUSD BorrowToken1: BUSD, Pid:155
+
+--------------------------------------- Farm MdexUSDT-BNB ------------------------------------------
+MdexUSDT-BNB debtToken: 0x13243c949cDe0f6a2b24ccE947D78f3A9A0f306e
+MdexUSDT-BNB Mdx Goblin: 0x1A49705aBFF34BCDFED5bF56f89b416EA768d856
+MdexUSDT-BNB FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexUSDT-BNB AddTwoStrategyAddr: 0x8454786C4168a792914c9fFd17a661C5515E7Cc8
+MdexUSDT-BNB WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexUSDT-BNB FairLaunch Pid: 27
+------------------ Bank Borrow Pid --------------------
+MdexUSDT-BNB BorrowToken0: USDT, Pid:156
+MdexUSDT-BNB BorrowToken1: BNB, Pid:157
+
+--------------------------------------- Farm MdexETH-BNB ------------------------------------------
+MdexETH-BNB debtToken: 0xd42E60a2f24657E151866873Aff4BD945Ff897D8
+MdexETH-BNB Mdx Goblin: 0x48f6AFA01Ed9C41Be8ad985eE177f3277E14B1cf
+MdexETH-BNB FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexETH-BNB AddTwoStrategyAddr: 0x049Ed364c6EAe2145e08dC1b73caE0e342EC2C67
+MdexETH-BNB WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexETH-BNB FairLaunch Pid: 28
+------------------ Bank Borrow Pid --------------------
+MdexETH-BNB BorrowToken0: ETH, Pid:158
+MdexETH-BNB BorrowToken1: BNB, Pid:159
+
+--------------------------------------- Farm MdexBTCB-BNB ------------------------------------------
+MdexBTCB-BNB debtToken: 0x193ad3a24c9dFaB79b3097A0a6C00E7d227b349c
+MdexBTCB-BNB Mdx Goblin: 0xf6ADB924213C78Cfab7B8f9ca21489e15E9410C2
+MdexBTCB-BNB FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexBTCB-BNB AddTwoStrategyAddr: 0xCb061D2fd73a2C28408A20c82be4D39764D36B04
+MdexBTCB-BNB WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexBTCB-BNB FairLaunch Pid: 29
+------------------ Bank Borrow Pid --------------------
+MdexBTCB-BNB BorrowToken0: BTCB, Pid:160
+MdexBTCB-BNB BorrowToken1: BNB, Pid:161
+
+--------------------------------------- Farm MdexBTCB-USDT ------------------------------------------
+MdexBTCB-USDT debtToken: 0xF1cc2217e77b23f178E3b389De3B89E70EEa315a
+MdexBTCB-USDT Mdx Goblin: 0xCf2ac9f8CF72F4908357376158b21Dfe00B0ace5
+MdexBTCB-USDT AddTwoStrategyAddr: 0xBB90F5F9e13BbC5d70eE5430822fA740a2e73e04
+MdexBTCB-USDT FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexBTCB-USDT WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexBTCB-USDT FairLaunch Pid: 30
+------------------ Bank Borrow Pid --------------------
+MdexBTCB-USDT BorrowToken0: BTCB, Pid:162
+MdexBTCB-USDT BorrowToken1: USDT, Pid:163
+
+--------------------------------------- Farm MdexETH-USDT ------------------------------------------
+MdexETH-USDT debtToken: 0xF7297B205C7D368657fb2e0005991fd66E35044B
+MdexETH-USDT Mdx Goblin: 0xB35148aB8d675C45B86F20EBFB151b9Fc4eF63ae
+MdexETH-USDT AddTwoStrategyAddr: 0x0bd721f356c956802172A6AEcF3eb57f19C74B7e
+MdexETH-USDT FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexETH-USDT WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexETH-USDT FairLaunch Pid: 31
+------------------ Bank Borrow Pid --------------------
+MdexETH-USDT BorrowToken0: ETH, Pid:164
+MdexETH-USDT BorrowToken1: USDT, Pid:165
+
+--------------------------------------- Farm MdexETH-BTCB ------------------------------------------
+MdexETH-BTCB debtToken: 0x59a56178247dE8936323ba75A0515A7cfA26c28F
+MdexETH-BTCB Mdx Goblin: 0xbb0b4f98E20DB9c202fA412Ab84c904bF4F07e1C
+MdexETH-BTCB FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexETH-BTCB AddTwoStrategyAddr: 0xdE9588A446A0Cf4949bAf24ea0b507140f4CCc6B
+MdexETH-BTCB WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexETH-BTCB FairLaunch Pid: 32
+------------------ Bank Borrow Pid --------------------
+MdexETH-BTCB BorrowToken0: ETH, Pid:166
+MdexETH-BTCB BorrowToken1: BTCB, Pid:167
+
+--------------------------------------- Farm MdexMDX-BUSD ------------------------------------------
+MdexMDX-BUSD debtToken: 0xeB7626Fe01C425E3b9aa35FDa71321029B01B6b9
+MdexMDX-BUSD Mdx Goblin: 0xE026B019d8CFc57eB8eF0cf5778bdB5a5f290505
+MdexMDX-BUSD FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexMDX-BUSD AddTwoStrategyAddr: 0x47E3F33CEc2C25bdfd8db65150ee7E46b401BA65
+MdexMDX-BUSD WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexMDX-BUSD FairLaunch Pid: 33
+------------------ Bank Borrow Pid --------------------
+MdexMDX-BUSD BorrowToken1: BUSD, Pid:168
+
+--------------------------------------- Farm MdexFIL-USDT ------------------------------------------
+MdexFIL-USDT debtToken: 0xe53bB24C614504229E34C0AD9EE22006A07f2F5F
+MdexFIL-USDT Mdx Goblin: 0x31Fa58e5007BA827de0dc0C3c839C96a5a413414
+MdexFIL-USDT AddTwoStrategyAddr: 0x7e3577BCCaE88fb424e4d15E978218f5319feE15
+MdexFIL-USDT FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexFIL-USDT WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexFIL-USDT FairLaunch Pid: 34
+------------------ Bank Borrow Pid --------------------
+MdexFIL-USDT BorrowToken1: USDT, Pid:169
+
+--------------------------------------- Farm MdexDOT-USDT ------------------------------------------
+MdexDOT-USDT debtToken: 0x1dFD3D2a7E1b245F5393c086c690bE98C6A1aEcE
+MdexDOT-USDT Mdx Goblin: 0xeAbA73300b04fB2e40cA7c78ab5920068B6f1D5C
+MdexDOT-USDT FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexDOT-USDT AddTwoStrategyAddr: 0xaF09A0Fa2f78D9dc67313dB99315105649BF46C6
+MdexDOT-USDT WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexDOT-USDT FairLaunch Pid: 35
+------------------ Bank Borrow Pid --------------------
+MdexDOT-USDT BorrowToken1: USDT, Pid:170
+
+--------------------------------------- Farm MdexRABBIT-BUSD ------------------------------------------
+MdexRABBIT-BUSD debtToken: 0x0a7040471deB4fAb1aBB29ceaa6AB120FF9FBD90
+MdexRABBIT-BUSD Mdx Goblin: 0x0Ff774721005b0cbd53d4719903D35468D47956F
+MdexRABBIT-BUSD FarmMdxLiqStrat: 0xBf71c53F6be53B846f44B14Ef54bcC60a397af76
+MdexRABBIT-BUSD WithdrawStrategyAddr: 0xEe5687397C00fBDAb702C0609b4FC4ff211193D5
+MdexRABBIT-BUSD AddTwoStrategyAddr: 0x6cB6e631Cc60EdC18f1483419b3b24D8185ef81F
+------------------ FairLaunch DebtToken Pid --------------------
+debtMdexRABBIT-BUSD FairLaunch Pid: 36
+------------------ Bank Borrow Pid --------------------
+MdexDOT-USDT BorrowToken1: BNB, Pid:171
+

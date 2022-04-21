@@ -1,0 +1,33 @@
+--------------------------------------- Leverage BiswapBTCB-USDT ------------------------------------------
+BiswapBTCB-USDT debtToken: 0x63D8998D9f1d3378Ed99538b0B56377C9e3c2CEA
+BiswapBTCB-USDT Biswap Leverage Goblin: 0x0F2D97Dc9496E0Df07F5dc42f4CDE1AD39f15A93
+BiswapBTCB-USDT LeverageLiqStrat: 0xB1Aad0D0D5161d08b64e202B15C597be80D0869c
+BiswapBTCB-USDT AddTwoStrategyAddr: 0x454A9dB76B42c7aB4D66ad0Dca1b4E0Ba90A3E57
+------------------ FairLaunch DebtToken Pid --------------------
+debtLeverageBiswapBTCB-USDT FairLaunch Pid: 37
+------------------ Bank Borrow Pid --------------------
+BiswapBTCB-USDT BorrowToken0: BTCB, Pid:172
+BiswapBTCB-USDT BorrowToken0: USDT, Pid:173
+
+--------------------------------------- Leverage BiswapETH-USDT ------------------------------------------
+BiswapETH-USDT debtToken: 0xA9b439B48e2dA45b8FE5bd88Db548DD0A8242009
+BiswapETH-USDT Biswap Leverage Goblin: 0x5A0eD94fA42e71220C91bc206b3f6Bde7C54F0df
+BiswapETH-USDT LeverageLiqStrat: 0xB1Aad0D0D5161d08b64e202B15C597be80D0869c
+BiswapETH-USDT AddTwoStrategyAddr: 0xEb522b7B7A415396c20ef46c6B6C620888268A81
+------------------ FairLaunch DebtToken Pid --------------------
+debtLeverageBiswapETH-USDT FairLaunch Pid: 38
+------------------ Bank Borrow Pid --------------------
+BiswapETH-USDT BorrowToken1: ETH, Pid:174
+BiswapETH-USDT BorrowToken0: USDT, Pid:175
+
+--------------------------------------- Leverage BiswapBNB-USDT ------------------------------------------
+BiswapBNB-USDT debtToken: 0xa1B281BCaA13bE4e99f6Bc85b4B6D3643bE10d07
+BiswapBNB-USDT Biswap Leverage Goblin: 0x5A8c6bbd76f6E2bA163F57CC23F0AEc83db310CE
+BiswapBNB-USDT LeverageLiqStrat: 0xB1Aad0D0D5161d08b64e202B15C597be80D0869c
+BiswapBNB-USDT AddTwoStrategyAddr: 0xFE4A42D1F415D51E803bBFdB3E92cCc49aFcD4A4
+------------------ FairLaunch DebtToken Pid --------------------
+debtLeverageBiswapBNB-USDT FairLaunch Pid: 39
+------------------ Bank Borrow Pid --------------------
+BiswapBNB-USDT BorrowToken1: BNB, Pid:176
+BiswapBNB-USDT BorrowToken0: USDT, Pid:177
+

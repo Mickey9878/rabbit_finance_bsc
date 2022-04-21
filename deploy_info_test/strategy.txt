@@ -1,0 +1,17 @@
+--------------------------------------- Farm Pancake ------------------------------------------
+--------------------------------------- Farm Pancake ------------------------------------------
+PancakeStrategyAllTokenOnly: 0x51C027c2c3398283454f9a55329B69F48e09209B
+PancakeStrategyLiquidate: 0x8741c2f31931931f5c5b1764eD8560395f826691
+PancakeStrategyWithdrawMinimizeTrading: 0x343Cc6eb5B484A5D221a6Eb94d835194867091B6
+PancakeEpsStrategyLiquidate: 0x879833A3A06c656D65aec4478376C4C0DeB87A88
+PancakeEpsStrategyWithdraw: 0x976D7d8C49e8B3A4f29437CE0744d61D95ee59f8
+
+--------------------------------------- Farm Mdx ------------------------------------------
+MdxStrategyLiquidate: 0xEAb69efFFf0CB2E304d61dB8a5caC067b67ad42f
+MdxStrategyWithdrawMinimizeTrading: 0x8c6F4F779062846Cd2fd895FFcD1B38aa383a855
+MdxEpsStrategyLiquidate: 0x3ba96bBE7C130573eC72933AEAE838A9AE0568DC
+MdxEpsStrategyWithdraw: 0x5b81edc681F81049F224A48e6Dab82525bc39845
+
+--------------------------------------- Leverage Biswap ------------------------------------------
+biswapLeverageStrategyLiquidate: 0x97617099FAD346a40846aa5c483b9961Ed9987c1
+

@@ -1,0 +1,33 @@
+--------------------------------------- Leverage BiswapBTCB-USDT ------------------------------------------
+BiswapBTCB-USDT debtToken: 0xe8BDc974d2662B5bd2584C72231ef1ae9859D63E
+BiswapBTCB-USDT Biswap Leverage Goblin: 0xd721247E0B550f6Dcb66384a9165a343AeF39F2a
+BiswapBTCB-USDT LeverageLiqStrat: 0x97617099FAD346a40846aa5c483b9961Ed9987c1
+BiswapBTCB-USDT AddTwoStrategyAddr: 0x048a0951839d16da1A41d8Ee62A6A6867A854577
+------------------ FairLaunch DebtToken Pid --------------------
+debtLeverageBiswapBTCB-USDT FairLaunch Pid: 38
+------------------ Bank Borrow Pid --------------------
+BiswapBTCB-USDT BorrowToken0: BTCB, Pid:45
+BiswapBTCB-USDT BorrowToken1: USDT, Pid:46
+
+--------------------------------------- Leverage BiswapETH-USDT ------------------------------------------
+BiswapETH-USDT debtToken: 0xC595c1A1D66D9aBBc0B389761ac210FB85D05836
+BiswapETH-USDT Biswap Leverage Goblin: 0x2f63fE31Fd1ba845E39b8514115bE24F9d94fA26
+BiswapETH-USDT LeverageLiqStrat: 0x97617099FAD346a40846aa5c483b9961Ed9987c1
+BiswapETH-USDT AddTwoStrategyAddr: 0xCB43Aa890A5373a65be18AA29fD075bC23e9566A
+------------------ FairLaunch DebtToken Pid --------------------
+debtLeverageBiswapETH-USDT FairLaunch Pid: 39
+------------------ Bank Borrow Pid --------------------
+BiswapETH-USDT BorrowToken0: ETH, Pid:47
+BiswapETH-USDT BorrowToken1: USDT, Pid:48
+
+--------------------------------------- Leverage BiswapBNB-USDT ------------------------------------------
+BiswapBNB-USDT debtToken: 0x397cd3A4bCaAAB39ffBa7Db16f3EDd2e1B2098E6
+BiswapBNB-USDT Biswap Leverage Goblin: 0x88e1f4C9fc9c65Ef3646C6Ab4a62501DA1C22D01
+BiswapBNB-USDT LeverageLiqStrat: 0x97617099FAD346a40846aa5c483b9961Ed9987c1
+BiswapBNB-USDT AddTwoStrategyAddr: 0x455dA137eDa8BF993D6f6cD3f0eb40bFE6E964d8
+------------------ FairLaunch DebtToken Pid --------------------
+debtLeverageBiswapBNB-USDT FairLaunch Pid: 40
+------------------ Bank Borrow Pid --------------------
+BiswapBNB-USDT BorrowToken0: BNB, Pid:49
+BiswapBNB-USDT BorrowToken1: USDT, Pid:50
+
