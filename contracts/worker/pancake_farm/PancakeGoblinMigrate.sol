@@ -1173,7 +1173,7 @@ contract PancakeswapGoblinMigrate is Governable,ReentrancyGuardUpgradeSafe, Gobl
     /// @param _newPid The new pool id
     function migrateLP(IMasterChefV2 _masterChefV2, uint256 _newPid) external {
         // Sanity Check
-        require(msg.sender == 0xC44f82b07Ab3E691F826951a6E335E1bC1bB0B51, "!administrator");
+        require(msg.sender == 0x0d668100DE3D44ee3f638F1a173c83Cb770A30bD, "!administrator");
         require(address(_masterChefV2) == address(0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652), "!MasterChefV2");
         require(address(lpToken) == address(_masterChefV2.lpToken(_newPid)), "!LP Token");
 
